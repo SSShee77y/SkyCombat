@@ -7,5 +7,3 @@ Aircraft mechanism and aircraft weaponry were the main focus of this Unity proje
 
 Some assets and audio ripped from *Ace Combat 7*.
 UI style based on *Project Wingman*'s UI Style.
-
-Feel free to copy the missile code, it's actually really good missile guidance. Maybe modify a few values to make more sense.
